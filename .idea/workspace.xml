@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab5e0665-b030-42bd-b81a-f2740cc01af7" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/YFimportdata/importdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YFimportdata/marketpositions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YFimportdata/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YFimportdata/plotresults.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YFimportdata/tradingsystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab5e0665-b030-42bd-b81a-f2740cc01af7" name="Changes" comment="Second Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="4826ecab-30a3-470c-ac89-cccd495f6f4b" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -80,7 +69,7 @@
       <workItem from="1673869830961" duration="450000" />
       <workItem from="1674053028727" duration="449000" />
       <workItem from="1674053643276" duration="61000" />
-      <workItem from="1674053773883" duration="983000" />
+      <workItem from="1674053773883" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1673868398085</created>
@@ -103,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673870124020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second Commit">
+      <created>1674054798329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054798329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
 </project>
